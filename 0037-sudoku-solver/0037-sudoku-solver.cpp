@@ -9,7 +9,7 @@ public:
 
             return true;
         }
-        //return true or false base on soln found or not
+      
         bool solve(vector<vector<char>>& board){
             int n=board.size();
             //empty cell ko fill
